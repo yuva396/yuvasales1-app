@@ -34,4 +34,9 @@ Currently the repository contains:
 - Easy to set up and run locally  
 
 ## Structure
-
+yuvasales1-app/
+├── .streamlit/ # Streamlit configuration
+├── Procfile.txt # For deployment
+├── requirements.txt # Python package requirements
+├── sales-app.py # Main app code
+└── supermarkt1_sales.xlsx # Sample sales data
