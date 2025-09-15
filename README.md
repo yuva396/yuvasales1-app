@@ -35,8 +35,8 @@ Currently the repository contains:
 
 ## Structure
 yuvasales1-app/
-├── .streamlit/ # Streamlit configuration
-├── Procfile.txt # For deployment
-├── requirements.txt # Python package requirements
-├── sales-app.py # Main app code
-└── supermarkt1_sales.xlsx # Sample sales data
+├── .streamlit/ # Streamlit configuration files (e.g. config.toml)
+├── Procfile.txt # Deployment configuration (for Heroku or similar)
+├── requirements.txt # Python dependencies list
+├── sales-app.py # Main Streamlit application code
+└── supermarkt1_sales.xlsx # Sample sales data for testing the app
