@@ -33,6 +33,10 @@ Currently the repository contains:
 - Interactive charts (Streamlit-based)  
 - Easy to set up and run locally  
 
+## Structure 
+
+<img width="259" height="110" alt="image" src="https://github.com/user-attachments/assets/0f82c164-bc96-4fec-a6c9-f80c9d05fe58" />
+
 ## Installation
 
 Follow these steps to set up the project locally:
