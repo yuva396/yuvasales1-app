@@ -33,10 +33,12 @@ Currently the repository contains:
 - Interactive charts (Streamlit-based)  
 - Easy to set up and run locally  
 
-## Structure
-yuvasales1-app/
-├── .streamlit/ # Streamlit configuration files (e.g. config.toml)
-├── Procfile.txt # Deployment configuration (for Heroku or similar)
-├── requirements.txt # Python dependencies list
-├── sales-app.py # Main Streamlit application code
-└── supermarkt1_sales.xlsx # Sample sales data for testing the app
+## Installation
+
+Follow these steps to set up the project locally:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yuva396/yuvasales1-app.git
+   cd yuvasales1-app
+
