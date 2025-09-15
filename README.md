@@ -42,3 +42,20 @@ Follow these steps to set up the project locally:
    git clone https://github.com/yuva396/yuvasales1-app.git
    cd yuvasales1-app
 
+2. **Create a virtual environment (optional but recommended)**
+     ```bash
+     python -m venv venv
+     source venv/bin/activate   # On Windows use: venv\Scripts\activate
+
+3. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+
+4. **Run the Streamlit app**
+   ```bash
+   streamlit run sales-app.py
+
+   
+
+
+ 
